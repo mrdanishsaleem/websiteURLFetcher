@@ -1,6 +1,3 @@
-Sure, here is the updated `README.md` file focusing on the Node.js script:
-
-```markdown
 # Website URL Fetcher
 
 This project contains a Node.js script to fetch all URLs from a given website.
